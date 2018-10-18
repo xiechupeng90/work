@@ -1,0 +1,4 @@
+mymoon.mf
+manifest-version: 1.0
+main-class: µÇÂ¼½çÃæ
+create-by: 1.6(sun microsystems inc.)
